@@ -13,3 +13,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ta-mu-aa&theme=default)
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,nuxtjs,react,nextjs,vite,golang,php,laravel,ruby,rails,docker,k8s,aws,postgres,mysql,git,gitlab,github,linux,raspberrypi,vscode&perline=10)](https://skillicons.dev)
