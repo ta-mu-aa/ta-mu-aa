@@ -1,18 +1,24 @@
 ### Hi there 👋
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ta-mu-aa&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ta-mu-aa&show_icons=true&theme=tokyonight)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16rem">
+  <img
+    alt="Top Langs"
+    style="display: grid; grid-template-rows: subgrid; grid-row: span 4; height: 12rem"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta-mu-aa&layout=compact&count_private=true&show_icons=true&theme=tokyonight&hide=jupyter%20notebook,MDX&langs_count=6"
+  />
+  <img
+    alt="github stats"
+    style="display: grid; grid-template-rows: subgrid; grid-row: span 4;"
+    src="https://github-readme-stats.vercel.app/api?username=ta-mu-aa&count_private=true&show_icons=true&show_icons=true&theme=tokyonight"
+  />  
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ta-mu-aa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ta-mu-aa&theme=ondark&rank=-C,-unknown)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ta-mu-aa&theme=default)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ta-mu-aa&theme=default)
 
 <h3 align="left">Languages and Tools:</h3>
 
