@@ -20,6 +20,16 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,vue,nuxtjs,react,nextjs,vite,golang,php,laravel,ruby,rails,docker,k8s,aws,postgres,mysql,git,gitlab,github,linux,raspberrypi,vscode&perline=10)](https://skillicons.dev)
+<h3 align="left">Advanced:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
+
+<h3 align="left">Intermediate</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,golang,docker,k8s,aws,postgres,gitlab&perline=7)](https://skillicons.dev)
+
+<h3 align="left">Beginner</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,vue,nuxtjs,vite,ruby,rails,mysql,linux,firebase,github&perline=10)](https://skillicons.dev)
